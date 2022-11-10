@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/Capstone/static/css/main.e6c13ad2.css",
-    "main.js": "/Capstone/static/js/main.0475323d.js",
-    "index.html": "/Capstone/index.html",
-    "main.e6c13ad2.css.map": "/Capstone/static/css/main.e6c13ad2.css.map",
-    "main.0475323d.js.map": "/Capstone/static/js/main.0475323d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.0475323d.js"
-  ]
+  "main.css": "/Capstone/static/css/main.b802e50e.chunk.css",
+  "main.js": "/Capstone/static/js/main.eb7c5e24.chunk.js",
+  "main.js.map": "/Capstone/static/js/main.eb7c5e24.chunk.js.map",
+  "static/js/1.a3266f79.chunk.js": "/Capstone/static/js/1.a3266f79.chunk.js",
+  "static/js/1.a3266f79.chunk.js.map": "/Capstone/static/js/1.a3266f79.chunk.js.map",
+  "runtime~main.js": "/Capstone/static/js/runtime~main.63b16ff3.js",
+  "runtime~main.js.map": "/Capstone/static/js/runtime~main.63b16ff3.js.map",
+  "static/css/main.b802e50e.chunk.css.map": "/Capstone/static/css/main.b802e50e.chunk.css.map",
+  "index.html": "/Capstone/index.html",
+  "precache-manifest.cb9157f708723a9dc8cb6bad05f2585d.js": "/Capstone/precache-manifest.cb9157f708723a9dc8cb6bad05f2585d.js",
+  "service-worker.js": "/Capstone/service-worker.js"
 }
